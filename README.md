@@ -1,4 +1,4 @@
-# googlechallenges
+# GCPChallengeAssociate
 Google cloud challenges solutions
 
 # **Implement Load Balancing on Compute Engine: Challenge Lab**
